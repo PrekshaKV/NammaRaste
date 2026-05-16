@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_road_detail.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_road_detail.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_road_directory.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_road_directory.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_report.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_bg_health_circle.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/bg_health_circle.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_contractor_info.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_contractor_info.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_item_best_road.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/item_best_road.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_item_filter_chip.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/item_filter_chip.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_location.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_bg_health_bar.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/bg_health_bar.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_item_road.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/item_road.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_road.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_road.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/navigation_nav_graph.xml.flat",
+        "source": "com.nammaraste.app-main-52:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_bg_status_chip.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/bg_status_chip.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_item_damage_report.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/item_damage_report.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_camera.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_dashboard.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nammaraste.app-main-52:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_dashboard.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_success_map.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_success_map.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_contractor.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_contractor.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nammaraste.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_phone.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_warning.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_bg_severity_chip.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/bg_severity_chip.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_star.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/drawable_ic_email.xml.flat",
+        "source": "com.nammaraste.app-main-52:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nammaraste.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/xml_file_paths.xml.flat",
+        "source": "com.nammaraste.app-main-52:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-debug-50:/layout_fragment_damage_report.xml.flat",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_damage_report.xml"
+    }
+]

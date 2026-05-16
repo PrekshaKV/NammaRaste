@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Manjunath K R",
+    "company": "Sri Manjunath Constructions",
+    "phone": "+91 98451 23456",
+    "email": "manjunath.kr@smconstructions.in",
+    "address": "No. 45, Industrial Area, Mysuru - 570016",
+    "roadsBuilt": 12,
+    "rating": 4.2,
+    "specialization": "PMGSY & Rural Roads"
+  },
+  {
+    "id": 2,
+    "name": "Ramesh Gowda B",
+    "company": "Kaveri Infrastructure Pvt Ltd",
+    "phone": "+91 94480 78901",
+    "email": "ramesh@kaveriinfra.com",
+    "address": "Kaveri Bhavan, Ring Road, Chamarajanagar - 571313",
+    "roadsBuilt": 8,
+    "rating": 3.1,
+    "specialization": "Highway & Bridge Construction"
+  },
+  {
+    "id": 3,
+    "name": "Suresh Babu M",
+    "company": "Cauvery Road Builders",
+    "phone": "+91 99012 34567",
+    "email": "suresh@cauveryrb.in",
+    "address": "Plot 12, KIADB Area, Mandya - 571401",
+    "roadsBuilt": 20,
+    "rating": 4.6,
+    "specialization": "State Highways & Resurfacing"
+  },
+  {
+    "id": 4,
+    "name": "Prasad Hegde N",
+    "company": "Western Ghats Construction Co",
+    "phone": "+91 97310 45678",
+    "email": "prasad@wgcc.co.in",
+    "address": "Coffee Block, Sakleshpur, Hassan - 573134",
+    "roadsBuilt": 6,
+    "rating": 3.5,
+    "specialization": "Mountain & Forest Roads"
+  },
+  {
+    "id": 5,
+    "name": "Ashwin Shetty K",
+    "company": "Coastal Infra Solutions",
+    "phone": "+91 98860 12345",
+    "email": "ashwin@coastalinfra.in",
+    "address": "NH-66, Kundapura, Udupi - 576201",
+    "roadsBuilt": 10,
+    "rating": 4.0,
+    "specialization": "Coastal & Waterlogged Area Roads"
+  },
+  {
+    "id": 6,
+    "name": "Basavaraj Patil S",
+    "company": "Tungabhadra Constructions",
+    "phone": "+91 94481 67890",
+    "email": "basavaraj@tungabhadra.com",
+    "address": "Station Road, Raichur - 584101",
+    "roadsBuilt": 15,
+    "rating": 3.8,
+    "specialization": "Rural & Agricultural Roads"
+  }
+]

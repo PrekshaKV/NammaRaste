@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.nammaraste.fragments.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboard_to_roadDetail"
+            app:destination="@id/roadDetailFragment" />
+        <action
+            android:id="@+id/action_dashboard_to_report"
+            app:destination="@id/damageReportFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/roadDirectoryFragment"
+        android:name="com.nammaraste.fragments.RoadDirectoryFragment"
+        android:label="Road Directory"
+        tools:layout="@layout/fragment_road_directory">
+        <action
+            android:id="@+id/action_directory_to_roadDetail"
+            app:destination="@id/roadDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/roadDetailFragment"
+        android:name="com.nammaraste.fragments.RoadDetailFragment"
+        android:label="Road Details"
+        tools:layout="@layout/fragment_road_detail">
+        <argument
+            android:name="roadId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+        <action
+            android:id="@+id/action_roadDetail_to_contractor"
+            app:destination="@id/contractorInfoFragment" />
+        <action
+            android:id="@+id/action_roadDetail_to_report"
+            app:destination="@id/damageReportFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/damageReportFragment"
+        android:name="com.nammaraste.fragments.DamageReportFragment"
+        android:label="Damage Report"
+        tools:layout="@layout/fragment_damage_report">
+        <argument
+            android:name="roadId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/contractorInfoFragment"
+        android:name="com.nammaraste.fragments.ContractorInfoFragment"
+        android:label="Contractor Info"
+        tools:layout="@layout/fragment_contractor_info">
+        <argument
+            android:name="contractorId"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/successMapFragment"
+        android:name="com.nammaraste.fragments.SuccessMapFragment"
+        android:label="Best Roads"
+        tools:layout="@layout/fragment_success_map">
+        <action
+            android:id="@+id/action_success_to_roadDetail"
+            app:destination="@id/roadDetailFragment" />
+    </fragment>
+
+</navigation>

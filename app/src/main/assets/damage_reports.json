@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "roadId": 2,
+    "roadName": "Gundlupet-Chamarajanagar Link",
+    "description": "Large pothole near Terakanambi village. Approximately 2 feet wide and 6 inches deep. Dangerous for two-wheelers.",
+    "severity": "High",
+    "photoPath": "",
+    "latitude": 11.8100,
+    "longitude": 76.6950,
+    "timestamp": "2026-04-15T09:30:00",
+    "reporterName": "Ravi Kumar",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "roadId": 4,
+    "roadName": "Sakleshpur-Hanbal Road",
+    "description": "Road edge completely eroded due to landslide. Only one lane passable. Immediate repair needed.",
+    "severity": "Critical",
+    "photoPath": "",
+    "latitude": 12.9450,
+    "longitude": 75.7880,
+    "timestamp": "2026-04-20T14:15:00",
+    "reporterName": "Shivanna M",
+    "status": "Under Review"
+  },
+  {
+    "id": 3,
+    "roadId": 4,
+    "roadName": "Sakleshpur-Hanbal Road",
+    "description": "Clogged drain near Hanbal junction causing water to overflow onto road surface during light rain.",
+    "severity": "Medium",
+    "photoPath": "",
+    "latitude": 12.9380,
+    "longitude": 75.7900,
+    "timestamp": "2026-05-01T11:45:00",
+    "reporterName": "Pradeep Gowda",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "roadId": 6,
+    "roadName": "Raichur-Manvi Village Road",
+    "description": "Multiple cracks on road surface near canal bridge. Cracks are expanding due to heavy tractor movement.",
+    "severity": "Medium",
+    "photoPath": "",
+    "latitude": 15.9280,
+    "longitude": 76.5560,
+    "timestamp": "2026-05-05T08:00:00",
+    "reporterName": "Hanumantha Reddy",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "roadId": 2,
+    "roadName": "Gundlupet-Chamarajanagar Link",
+    "description": "Speed breaker completely broken and now acts as a pothole. Very dangerous at night with no reflectors.",
+    "severity": "High",
+    "photoPath": "",
+    "latitude": 11.8120,
+    "longitude": 76.6930,
+    "timestamp": "2026-05-10T16:30:00",
+    "reporterName": "Chandrashekar B",
+    "status": "Pending"
+  }
+]

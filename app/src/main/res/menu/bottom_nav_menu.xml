@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/nav_dashboard" />
+    <item
+        android:id="@+id/roadDirectoryFragment"
+        android:icon="@drawable/ic_road"
+        android:title="@string/nav_roads" />
+    <item
+        android:id="@+id/damageReportFragment"
+        android:icon="@drawable/ic_report"
+        android:title="@string/nav_report" />
+    <item
+        android:id="@+id/successMapFragment"
+        android:icon="@drawable/ic_star"
+        android:title="@string/nav_best_roads" />
+</menu>

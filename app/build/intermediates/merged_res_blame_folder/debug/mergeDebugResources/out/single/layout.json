@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_damage_report.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_damage_report.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.nammaraste.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/item_best_road.xml",
+        "source": "com.nammaraste.app-main-52:/layout/item_best_road.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_road_detail.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_road_detail.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_contractor_info.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_contractor_info.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/item_filter_chip.xml",
+        "source": "com.nammaraste.app-main-52:/layout/item_filter_chip.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_dashboard.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_road_directory.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_road_directory.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/item_road.xml",
+        "source": "com.nammaraste.app-main-52:/layout/item_road.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/fragment_success_map.xml",
+        "source": "com.nammaraste.app-main-52:/layout/fragment_success_map.xml"
+    },
+    {
+        "merged": "com.nammaraste.app-mergeDebugResources-49:/layout/item_damage_report.xml",
+        "source": "com.nammaraste.app-main-52:/layout/item_damage_report.xml"
+    }
+]
